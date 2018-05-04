@@ -8,6 +8,10 @@
   },
   "author": "Ben Crossgrove",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencrossgrove/Mocking-Spongebob-Text-Generator"
+  },
   "dependencies": {
     "body-parser": "^1.18.2",
     "ejs": "^2.5.9",

@@ -1,0 +1,6 @@
+{
+    "name": "Spongebob Mocking Text Generator",
+    "description": "Generates as much Mocking Spongebob text as you'd like.",
+    "repository": "https://github.com/bencrossgrove/Mocking-Spongebob-Text-Generator",
+    "keywords": ["node", "express", "ejs", "heroku"]
+}
